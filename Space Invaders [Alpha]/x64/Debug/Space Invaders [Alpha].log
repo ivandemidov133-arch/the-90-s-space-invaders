@@ -1,0 +1,29 @@
+﻿  Space Invaders [Alpha].cpp
+C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(515,5): error C2360: initialization of 'hdc' is skipped by 'case' label
+      C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(505,13):
+      see declaration of 'hdc'
+  
+C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(526,5): error C2360: initialization of 'hdc' is skipped by 'case' label
+      C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(505,13):
+      see declaration of 'hdc'
+  
+C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(534,5): error C2360: initialization of 'hdc' is skipped by 'case' label
+      C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(505,13):
+      see declaration of 'hdc'
+  
+C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(545,5): error C2360: initialization of 'hdc' is skipped by 'case' label
+      C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(505,13):
+      see declaration of 'hdc'
+  
+C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(557,5): error C2360: initialization of 'hdc' is skipped by 'case' label
+      C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(505,13):
+      see declaration of 'hdc'
+  
+C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(560,5): error C2360: initialization of 'hdc' is skipped by 'case' label
+      C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(505,13):
+      see declaration of 'hdc'
+  
+C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(568,5): error C2361: initialization of 'hdc' is skipped by 'default' label
+      C:\Users\ivand\source\repos\Space Invaders [Alpha]\Space Invaders [Alpha]\Space Invaders [Alpha].cpp(505,13):
+      see declaration of 'hdc'
+  
